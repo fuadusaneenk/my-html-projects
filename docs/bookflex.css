@@ -1,0 +1,23 @@
+.parent{
+  display: flex;
+  justify-content: space-around;
+}
+.child{
+    height: 900px;
+    width: 273px;
+background-color: burlywood ;
+border: rgb(66, 67, 70) solid 2px;
+padding: 15px ;
+}
+img{
+    width: 70%;
+    margin-left: 35px;
+
+}
+h1{
+    position: sticky;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
